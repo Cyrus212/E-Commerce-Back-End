@@ -26,6 +26,12 @@ Similarly, replace `products` with `categories` or `tags` to interact with those
 
 Here's an example of what the API might look like in use:
 
+### Screenshots:
+
 ![MySQL Screenshot](assets/images/mysql.png)
 
 ![Requests Screenshot](assets/images/requests.png)
+
+### Video Demo:
+
+https://watch.screencastify.com/v/Xf7TAoKx66r7Gn7GcLym
